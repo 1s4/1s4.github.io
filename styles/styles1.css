@@ -1,0 +1,8 @@
+h1,h2 {
+  color: red;
+  width: 500px;
+  border: 1px solid black;
+}
+p,ol {
+  color: blue;
+}
